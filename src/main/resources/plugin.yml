@@ -1,0 +1,6 @@
+name: ReportSystem
+version: 1.0
+author: Mxrlin
+main: mxrlin.report.ReportSystem
+commands:
+  report:
